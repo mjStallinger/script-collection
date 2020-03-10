@@ -1,2 +1,2 @@
 @echo off
-call forcerestartsvc bthserv
+call %~dp0\forcerestartsvc bthserv
